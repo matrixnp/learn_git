@@ -1,1 +1,2 @@
 Ovo je fajl 2
+Ova linija je dodata na lokalnom repositoriju
